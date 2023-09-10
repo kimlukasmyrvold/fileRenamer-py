@@ -1,1 +1,1 @@
-This is a very basic Python script for quickly renaming files in a directory
+This is a very basic Python script for quickly renaming several files at once in a directory
